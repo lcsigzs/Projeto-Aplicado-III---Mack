@@ -1,0 +1,11 @@
+# Datasets grandes
+Dados/*.csv
+# Ou toda pasta se não precisar versionar
+Dados/
+
+# Jupyter notebooks outputs
+*.ipynb_checkpoints/
+
+# Outros
+.DS_Store
+Thumbs.db
