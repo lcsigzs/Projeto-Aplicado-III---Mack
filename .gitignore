@@ -1,7 +1,7 @@
 # Datasets grandes
-Dados/*.csv
+Data/*.csv
 # Ou toda pasta se não precisar versionar
-Dados/
+Data/
 
 # Jupyter notebooks outputs
 *.ipynb_checkpoints/
