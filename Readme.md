@@ -1,10 +1,10 @@
 🎞️ Apresentação do Projeto
 ---------------------------
-* Link: *
+* Link: "Em desenvolvimento"
+  
 📈​ Objetivo
 ---------------------------
 * Criar um Sistema de recomendações de Filmes
-
 
 📁 Estrutura do Repositório
 ---------------------------
