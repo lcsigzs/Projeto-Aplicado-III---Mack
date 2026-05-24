@@ -1,11 +1,21 @@
-# Datasets grandes
-Data/*.csv
-# Ou toda pasta se não precisar versionar
-Data/
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+venv/
+.env
 
-# Jupyter notebooks outputs
-*.ipynb_checkpoints/
+# Jupyter
+.ipynb_checkpoints/
 
-# Outros
+# IDE
+.vscode/
+.idea/
+
+# OS
 .DS_Store
 Thumbs.db
+
+# Dados sensíveis (se houver)
+data/raw/*.csv
+!data/raw/.gitkeep
