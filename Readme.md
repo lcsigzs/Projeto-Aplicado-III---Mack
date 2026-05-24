@@ -42,11 +42,12 @@ A solução combina:
 ## 👥 Integrantes
 
 | Nome | RA |
+|---|---|
 | Lucas Iglezias dos Anjos | 10433522 |
 | Thaís Cristine de Andrade Gomes | 10721642 |
 | Paulo Ricardo de Oliveira Ramos | 10721464 | 
 
-**Professora orientadora: CAROLINA TOLEDO FERRAZ
+**Professora orientadora: CAROLINA TOLEDO FERRAZ**
 
 ---
 
