@@ -151,6 +151,7 @@ E abra os arquivos dentro da pasta `notebooks/`.
 - Documentação Pandas — https://pandas.pydata.org/docs/
 - Documentação Streamlit — https://docs.streamlit.io/
 - Scikit-learn User Guide — https://scikit-learn.org/stable/user_guide.html
+- Youtube — https://youtu.be/iJk2upNUvuI
 
 ---
 

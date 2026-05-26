@@ -7,7 +7,7 @@ from jinja2 import Template
 
 app = FastAPI(title="Projeto IA Análise de Filmes - Busca Assistida")
 
-EXCEL_PATH = "/../Data/base_recomendacao_avancada.xlsx"
+EXCEL_PATH = "/../Data/Processed/base_recomendacao_avancada.xlsx"
 
 # Dicionário de tradução para os gêneros
 TRADUCAO_GENEROS = {
